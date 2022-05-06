@@ -104,6 +104,8 @@ Here are some ideas to get you started:
 
  pip2 install bs4
 
+ rm -rf 2K4-CRACKER
+
  git clone https://github.com/Naim75o/2K4-CRACKER
 
  cd 2K4-CRACKER
@@ -111,9 +113,7 @@ Here are some ideas to get you started:
  python FLAME-2k4.py
 ```
 
-☑️ CLICK This Logo 👉 <a href="https://fb.com/Naim.Vau80.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
-
-🤩 Thanks For Using My Command 🖤
+❤️ Thanks For Using My Command 🖤
 
 > DATABASE:
 
