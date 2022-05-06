@@ -109,6 +109,8 @@ Here are some ideas to get you started:
  git clone https://github.com/Naim75o/2K4-CRACKER
 
  cd 2K4-CRACKER
+ 
+ git pull
 
  python FLAME-2k4.py
 ```
